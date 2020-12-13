@@ -9,6 +9,7 @@ create in windows:
 activate created virtual env
 6)pip install django
 7)python manage.py migrate
+8)pip install django-cors-headers
 
 start in windows:
 python manage.py runserver
